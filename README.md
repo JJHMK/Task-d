@@ -31,6 +31,6 @@ Date: 2025-09-25
     Visit <a href="https://example.com" target="_blank">Example.com</a>
   </p>
 
-  <img src="image.jpg" alt="Example image">
+  <img src="https://www.google.com/imgres?q=Yeet&imgurl=https%3A%2F%2Fcdn.displate.com%2Fartwork%2F1200x857%2F2024-09-27%2F266331d1-5d59-4902-9321-ba423910fa0f.jpg&imgrefurl=https%3A%2F%2Fdisplate.com%2Fdisplate%2F7510311&docid=cFlEy2ielGrJZM&tbnid=KpCc7HSQggJB7M&vet=12ahUKEwiU3oWll_SPAxVoJxAIHRUPKlYQM3oECBwQAA..i&w=1200&h=857&hcb=2&ved=2ahUKEwiU3oWll_SPAxVoJxAIHRUPKlYQM3oECBwQAA" alt="Example image">
 </body>
 </html>
