@@ -1,0 +1,60 @@
+/*
+Author: Jasper Myllymäki
+Date: 2025-09-30
+*/
+
+/* Element selectors */
+h1 {
+  color: darkblue;
+  text-align: center;
+}
+p {
+  line-height: 1.6;
+  font-size: 1.1em;
+}
+
+/* ID selector */
+#special-message {
+  background-color: #f0f8ff;
+  border-left: 4px solid darkblue;
+  padding: 10px;
+}
+
+/* Class selectors */
+.box {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 15px 0;
+}
+.highlight {
+  background-color: #fff8dc;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+/* Group selector */
+h1, h2, h3 {
+  font-family: Arial, sans-serif;
+  margin-bottom: 8px;
+}
+
+/* Descendant selector */
+section ul li {
+  list-style-type: square;
+  color: darkred;
+}
+
+/* Attribute selectors */
+a[target="_blank"] {
+  color: darkgreen;
+  text-decoration: none;
+  font-weight: bold;
+}
+a[target="_blank"]:hover {
+  text-decoration: underline;
+}
+img[alt] {
+  border: 2px solid #333;
+  border-radius: 6px;
+  margin: 5px;
+}
